@@ -1,0 +1,18 @@
+{
+  "name": "경기도 광명시_야영(캠핑)장 현황(개방표준)",
+  "description": "광명시 야영(캠핑)장 현황(개방표준)입니다",
+  "url": "https://www.data.go.kr/data/15032704/openapi.do",
+  "keywords": ["캠핑", "오토 캠핑", "야영장", "캠핑장", "야영", "텐트", "카라반"],
+  "license": "https://data.go.kr/ugs/selectPortalPolicyView.do",
+  "dateCreated": "2018-10-29",
+  "dateModified": "2018-10-30",
+  "datePublished": "2018-10-29",
+  "creator": {
+    "name": "경기도 광명시",
+    "contactPoint": { "contactType": "정보통신과", "telephone": "+82-0226806301", "@type": "ContactPoint" },
+    "@type": "Organization"
+  },
+  "distribution": [{ "encodingFormat": "JSON+XML", "contentUrl": "https://www.data.go.kr/data/15032704/openapi.do", "@type": "DataDownload" }],
+  "@context": "https://schema.org",
+  "@type": "Dataset"
+}
